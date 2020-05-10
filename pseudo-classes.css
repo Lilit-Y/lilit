@@ -1,0 +1,6 @@
+ .my-dive {height: 50px; width: 50px; background-color: crimson;}
+.my-dive:hover{background-color: darkgoldenrod;} 
+h1{color: white;}
+h1:hover{color: cornflowerblue;}
+.text-input:focus:focus{background-color: crimson;}
+.checkbox-input:checked{visibility: hidden;}

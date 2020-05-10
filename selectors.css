@@ -1,0 +1,9 @@
+/* *{margin:0; padding:0;font-size: smaller;}
+.class-selector{color: firebrick; border-bottom: peru;}
+p{color: chartreuse;}
+#id-selector{color: palevioletred;}
+div{height: 80px; width: 80px;background-color: plum;} */
+input[type="text"] {background-color: blue;}
+input[type="password"]{background-color: red;}
+input[type="email"]{background-color: orange;}
+p,span,.name1 {color: yellowgreen;}
